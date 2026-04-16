@@ -8,14 +8,14 @@
 
 ## Tecnologias
 - Estou aprendendo:
-<div style="display: flex; gap: 10px; align-items: center;">
+<p>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-</div>
-          
+</p>
+
 ## Evolução  
   - Este repositório é meu portfólio em construção, onde compartilho projetos práticos e registro minha **evolução contínua** no **desenvolvimento Full-Stack**.
 
@@ -24,4 +24,9 @@
   <a href="https://www.linkedin.com/in/raissa-ximenesl">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</p>
+
+## Contribuições 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raissaximenes/raissaximenes/output/github-contribution-grid-snake-dark.svg"/>
 </p>
